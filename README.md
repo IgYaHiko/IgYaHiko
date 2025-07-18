@@ -1,14 +1,11 @@
-<h1 align="center">Hi there, I'm IgYaHiko 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I+build+full-stack+apps;Love+React,+Next.js+&+Tailwind;Always+learning+new+tech!&font=Fira%20Code&center=true&width=440&height=45&color=38B2AC&vCenter=true&pause=1000&size=22" />
-</p>
+<h1 align="center">Yo, I'm IgYaHiko 👋</h1>
+<p align="center">🗡️ Code Samurai | Full-stack dev who slashes bugs like a ninja</p>
 
 ---
 
-## 🚀 Tech Stack I Wield Like a Pro
+## 🧰 Tech Stack I Wield Like a Pro
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -21,49 +18,55 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Neon-00FFFF?style=for-the-badge&logo=neon&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Neon-00B5E2?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white"/>
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Inngest-7E22CE?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/E2B Sandbox-9146FF?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Inngest-purple?style=for-the-badge&logo=data:image/svg+xml;base64,..."/>
+  <img src="https://img.shields.io/badge/E2B_Sandbox-8E44AD?style=for-the-badge&logo=code&logoColor=white"/>
 </p>
 
 ---
 
-## 🎮 Bonus Moves
+## ⚔️ Katana Always Slaying Code
 
-🛠️ CLI Kung-Fu  
-🌐 REST/GraphQL whisperer  
-☕ Coffee-driven debugging  
-📚 Constant learner (probably reading docs right now...)  
-🧙‍♂️ Spell-casting level: TypeScript Sorcerer  
-💫 Animation Enthusiast - because static UIs are too boring
+<p align="center">
+  <svg width="200" height="200" viewBox="0 0 200 200">
+    <rect width="200" height="200" fill="#111111" />
+    <text x="50%" y="50%" fill="#ffffff" text-anchor="middle" alignment-baseline="middle" font-family="monospace" font-size="14">
+      CODE
+    </text>
+    <g transform="translate(100 100)">
+      <line x1="-40" y1="0" x2="40" y2="0" stroke="red" stroke-width="4">
+        <animateTransform
+          attributeName="transform"
+          type="rotate"
+          from="-45"
+          to="45"
+          dur="1.5s"
+          repeatCount="indefinite" />
+      </line>
+    </g>
+  </svg>
+</p>
+
+<p align="center"><em>My katana doesn’t rest. It slashes bugs 24/7. 🐛⚔️</em></p>
+
+---
+
+## 🔥 Bonus Moves
+
+- ⚙️ CLI Kung-Fu
+- 🌐 REST/GraphQL whisperer
+- 🧃 Coffee-driven debugger
+- 📚 Constant learner (maybe reading docs right now...)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgYaHiko&show_icons=true&theme=radical" />
-</p>
+> Replace `your-username` with your actual username.
 
----
-
-## 🖥️ Currently Working On:
-
-- 🚧 Final Year Project – Fing-AI 🤖
-- ⚙️ Building Next.js tools with Inngest + E2B Sandbox
-- 🧪 Breaking stuff just to fix it (on purpose, of course)
-
----
-
-> ⚡ Pro Tip: `console.log("Because debugging is my cardio.")`  
-> 🌈 If you’re still reading this — you’re cool. Let’s connect!
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  <em>Keep coding. Keep breaking things. Keep learning.</em>
-</p>
+```md
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
