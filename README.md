@@ -41,7 +41,7 @@
 
 ## 🐍 Contribution Snake
 
-<img style="pointer-events:none;" src="https://raw.githubusercontent.com/IgYaHiko/IgYaHiko/output/snake.svg" alt="Snake animation" />
+<img style="pointer-events:none;" src="https://raw.githubusercontent.com/IgYaHiko/IgYaHiko/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 
 ---
