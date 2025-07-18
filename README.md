@@ -59,3 +59,21 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
+
+## 🖥️ Currently Working On:
+
+- 🚧 Final Year Project – Fing-AI 🤖
+- ⚙️ Building Next.js tools with Inngest + E2B Sandbox
+- 🧪 Breaking stuff just to fix it (on purpose, of course)
+
+---
+
+> ⚡ Pro Tip: `console.log("Because debugging is my cardio.")`  
+> 🌈 If you’re still reading this — you’re cool. Let’s connect!
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+  <em>Keep coding. Keep breaking things. Keep learning.</em>
+</p>
