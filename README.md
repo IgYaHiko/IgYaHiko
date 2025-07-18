@@ -41,9 +41,8 @@
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/IgYaHiko/IgYaHiko/output/snake.svg" 
-     style="width: 100%" 
-     alt="Contribution Snake" />
+<img style="pointer-events:none;" src="https://raw.githubusercontent.com/Circuit-Overtime/Circuit-Overtime/output/snake.svg" alt="Snake animation" />
+
 
 
 ---
