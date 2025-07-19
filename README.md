@@ -63,9 +63,11 @@
 
 ## 🖥️ Currently Working On:
 
-- 🚧 Final Year Project – Fing-AI 🤖
+<div align='center' >
+  - 🚧 Final Year Project – Fing-AI 🤖
 - ⚙️ Building Next.js tools with Inngest + E2B Sandbox
 - 🧪 Breaking stuff just to fix it (on purpose, of course)
+</div>
 
 ---
 
@@ -74,7 +76,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   <em>Keep coding. Keep breaking things. Keep learning.</em>
 </p>
