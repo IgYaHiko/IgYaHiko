@@ -1,4 +1,4 @@
-<h1 align="center">Yo, I'm IgYaHiko 👋</h1>
+<img src="./assets/mojo.svg" alt="Katana slaying code" width="300" />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+build+full-stack+apps;Love+React,+Next.js+&+Tailwind;Always+learning+new+tech!&font=Fira%20Code&center=true&width=440&height=45&color=38B2AC&vCenter=true&pause=1000&size=22" />
 </p>
