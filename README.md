@@ -63,11 +63,11 @@
 
 ## 🖥️ Currently Working On:
 
-<div align='center' >
-  - 🚧 Final Year Project – Fing-AI 🤖
-- ⚙️ Building Next.js tools with Inngest + E2B Sandbox
-- 🧪 Breaking stuff just to fix it (on purpose, of course)
-</div>
+
+`- 🚧 Final Year Project – Fing-AI 🤖`
+`- ⚙️ Building Next.js tools with Inngest + E2B Sandbox`
+`- 🧪 Breaking stuff just to fix it (on purpose, of course)`
+
 
 ---
 
