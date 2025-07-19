@@ -74,7 +74,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   <em>Keep coding. Keep breaking things. Keep learning.</em>
 </p>
