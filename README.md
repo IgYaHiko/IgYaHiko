@@ -49,7 +49,7 @@
 
 ---
 
-## 📫 How to reach me
+## 📫 Reach Out
 
 <div align="center">
   <a href="https://linkedin.com/in/yourprofile">
