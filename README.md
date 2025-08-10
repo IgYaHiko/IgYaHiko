@@ -63,7 +63,7 @@
   </a>
 </div>
 
-## 🖥️ Currently Working On
+## 🖥️ Currently Working On:
 
 - 🚧 `Final Year Project – Fing-AI 🤖` 
 - ⚙️ `Building Next.js tools with Inngest + E2B Sandbox` 
