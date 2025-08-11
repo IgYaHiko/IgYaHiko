@@ -6,7 +6,7 @@
 </p>
 ---
 
-## 🛠🚀 Tech Stac
+## 🛠🚀 Tech Stack:
 
 <div align="center">
   <p align="left">
