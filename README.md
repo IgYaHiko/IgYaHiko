@@ -65,7 +65,6 @@
 
 ## 🖥️ Currently Working On:
 
-- 🚧 `Final Year Project – Fing-AI 🤖` 
 - ⚙️ `Building Next.js tools with Inngest + E2B Sandbox` 
 - 🧪 `Breaking stuff just to fix it (on purpose, of course)`
 
