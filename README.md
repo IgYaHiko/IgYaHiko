@@ -4,6 +4,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=I+build+full-stack+apps;Love+React,+Next.js+&+Tailwind;Always+learning+new+tech!&font=Fira%20Code&center=true&width=440&height=45&color=38B2AC&vCenter=true&pause=1000&size=22" />
 </p>
+
+
+## Hacktoberfest Stats
+
+[![An image of @circuitovertime's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/circuitovertime)](https://holopin.io/@circuitovertime)
+
 ---
 
 ## 🛠🚀 Tech Stack:
