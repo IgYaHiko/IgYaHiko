@@ -6,7 +6,7 @@
 </p>
 
 
-## Hacktoberfest Stats 👾
+## Hacktoberfest Stats: 👾
 
 [![An image of @igyahiko's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/igyahiko)](https://holopin.io/@igyahiko)
 
