@@ -42,24 +42,7 @@
 
 ## ⚡ GitHub Stats
 
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=IgYaHiko&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" 
-    width="48%"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=IgYaHiko&theme=tokyonight&hide_border=true&border_radius=12" 
-    width="48%"
-  />
-
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IgYaHiko&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
-    width="48%"
-  />
-
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IgYaHiko&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgYaHiko&layout=compact&theme=radical" alt="Top Languages" width="45%" /> </div>
 
 
 ---
