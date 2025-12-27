@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠🚀 Tech Stack
+## 🛠🚀 Tech Stack:
 
 <div align="center">
   <p align="center">
