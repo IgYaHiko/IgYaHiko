@@ -8,7 +8,8 @@
 
 ---
 
-## 👾 Hacktoberfest Stats
+## 👾 Hacktoberfest Stats:
+
 [![Holopin Badges](https://holopin.me/igyahiko)](https://holopin.io/@igyahiko)
 
 ---
