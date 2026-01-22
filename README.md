@@ -86,3 +86,6 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />  
 **Keep coding. Keep breaking things. Keep learning.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="300" />
+</p>
