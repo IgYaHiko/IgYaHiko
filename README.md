@@ -87,7 +87,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />  
-**Keep coding. Keep breaking things. Keep learning.**
+  ⚡️Keep coding. Keep breaking things. Keep hustle🚀
 
 
 </p>
