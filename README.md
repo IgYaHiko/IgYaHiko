@@ -189,9 +189,17 @@
 
 ## 🎵 Now Playing on Spotify
 
+## 🎵 Current Vibes
+
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31rnwysop3skvq2sug3vslm5hy34&count=1&width=500)](https://open.spotify.com/user/31rnwysop3skvq2sug3vslm5hy34)
+🎧 **Now playing:** Lo-fi hip hop radio - beats to code/relax to  
+🎌 **Anime OST:** Jujutsu Kaisen - "Kaikai Kitan"  
+🌙 **Synthwave:** The Midnight - "Los Angeles"  
+
+*Updated frequently while coding* ⚡
+
+[![Listen on Spotify](https://img.shields.io/badge/Follow_my_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31rnwysop3skvq2sug3vslm5hy34)
 
 </div>
 
