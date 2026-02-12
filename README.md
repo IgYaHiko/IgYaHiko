@@ -187,27 +187,99 @@
 
 ---
 
-## 🎵 Now Playing on Spotify
-
-## 🎵 Current Vibes
+## 🎵 Music I Code To
 
 <div align="center">
 
-🎧 **Now playing:** Lo-fi hip hop radio - beats to code/relax to  
-🎌 **Anime OST:** Jujutsu Kaisen - "Kaikai Kitan"  
-🌙 **Synthwave:** The Midnight - "Los Angeles"  
+### 🎧 **Now Playing — Live from Last.fm**
 
-*Updated frequently while coding* ⚡
+[![Last.fm](https://lastfm-recently-played-readme.vercel.app/api?user=yahiko_sama&count=1&width=850&bg_color=0D1117&text_color=FFFFFF&track_text_color=38B2AC&header_text=Currently+Vibing&show_user=hidden&hide_header_border=true)](https://www.last.fm/user/yahiko_sama)
 
-[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME&count=1&width=600&bg_color=0D1117&bar_color=38B2AC)](https://www.last.fm/user/YOUR_LASTFM_USERNAME)
+### 📀 **Recently Played**
+
+[![Last.fm](https://lastfm-recently-played-readme.vercel.app/api?user=yahiko_sama&count=5&width=850&bg_color=0D1117&text_color=FFFFFF&track_text_color=38B2AC&header_text=Recently+Played+Tracks&show_user=hidden&hide_header_border=true)](https://www.last.fm/user/yahiko_sama)
+
 </div>
 
-### 🎧 Current Coding Vibes
+---
 
-```javascript
-const devPlaylist = [
-  "🎧 Lo-fi Hip Hop - 'Debug Mode.exe'",
-  "🎧 Anime Openings - 'Stack Overflow'd'",
-  "🎧 Synthwave - 'Git Commit Dreams'",
-  "🎧 Epic Orchestral - 'Production Ready'"
-];
+## 🎶 My Coding Playlists
+
+<div align="center">
+
+| **Mood** | **Playlist** | **Vibe** |
+|:--------:|:-----------:|:--------:|
+| 🎮 **Lo-fi / Chill** | [![Spotify](https://img.shields.io/badge/Code_&_Relax-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX9uKNf5jGX6m) | `beats to debug to` |
+| ⚔️ **Anime Openings** | [![Spotify](https://img.shields.io/badge/Hype_Mode-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX8aDdB7BxjD6) | `stack overflow theme` |
+| 🌙 **Synthwave** | [![Spotify](https://img.shields.io/badge/Night_Coding-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX9CCxc3BLU9s) | `midnight commits` |
+| 🎌 **Japanese Chill** | [![Spotify](https://img.shields.io/badge/Lofi_Anime-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX14fiWYoe7Oh) | `sakura season` |
+| 🎧 **Deep Focus** | [![Spotify](https://img.shields.io/badge/Deep_Work-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DX3PFzdbtx1Us) | `no distractions` |
+
+</div>
+
+<div align="center">
+  
+[![Follow on Last.fm](https://img.shields.io/badge/Follow_on_Last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/yahiko_sama)
+[![Follow on Spotify](https://img.shields.io/badge/Follow_on_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31rnwysop3skvq2sug3vslm5hy34)
+
+</div>
+
+---
+
+## 🎮 When I'm Not Coding
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150" />
+        <br />
+        <strong>🎌 Anime Marathons</strong>
+        <br />
+        <em>Currently watching: Jujutsu Kaisen</em>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="150" />
+        <br />
+        <strong>🎮 Gaming Sessions</strong>
+        <br />
+        <em>Spider-Man 2, Valorant</em>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" />
+        <br />
+        <strong>📚 Manga Collector</strong>
+        <br />
+        <em>Berserk, Vagabond, One Piece</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://YOUR_PORTFOLIO.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_SERVER)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <br />
+  <br />
+  <strong>⚡ "The code is like a katana — sharpen it daily, and it will never fail you." ⚡</strong>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IgYaHiko&label=Profile%20Views&color=38B2AC&style=flat" alt="Profile Views" />
+</p>
