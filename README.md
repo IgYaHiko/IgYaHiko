@@ -229,30 +229,35 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="150" />
+        <img src="https://media.tenor.com/2S7Ck0yRrUAAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="150" height="150" style="border-radius: 10px;" />
         <br />
         <strong>🎌 Anime Marathons</strong>
         <br />
         <em>Currently watching: Jujutsu Kaisen</em>
+        <br />
+        <sub>Gojo Satoru - "Nah, I'd win"</sub>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="150" />
+        <img src="https://media.tenor.com/6JdSsU3kE3YAAAAi/spider-man-spider-verse.gif" width="150" height="150" style="border-radius: 10px;" />
         <br />
         <strong>🎮 Gaming Sessions</strong>
         <br />
         <em>Spider-Man 2, Valorant</em>
+        <br />
+        <sub>Miles Morales - "What's up, danger?"</sub>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="150" />
+        <img src="https://media.tenor.com/8vUwWf4TyyoAAAAi/guts-berserk.gif" width="150" height="150" style="border-radius: 10px;" />
         <br />
         <strong>📚 Manga Collector</strong>
         <br />
         <em>Berserk, Vagabond, One Piece</em>
+        <br />
+        <sub>Guts - "Struggle, endure, contend"</sub>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 ## 📫 Connect With Me
