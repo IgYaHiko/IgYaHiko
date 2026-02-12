@@ -166,10 +166,7 @@
 
 ## ⚡ GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgYaHiko&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgYaHiko&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="Top Languages" width="45%" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgYaHiko&theme=radical&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" width="94%" />
