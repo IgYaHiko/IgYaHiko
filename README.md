@@ -191,7 +191,7 @@
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&bar_color=38B2AC&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rnwysop3skvq2sug3vslm5hy34&cover_image=true&theme=novatorem&bar_color=38B2AC&bar_color_cover=true)](https://open.spotify.com/user/31rnwysop3skvq2sug3vslm5hy34)
 
 </div>
 
