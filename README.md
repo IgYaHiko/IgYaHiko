@@ -229,31 +229,27 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.tenor.com/2S7Ck0yRrUAAAAAC/gojo-satoru-jujutsu-kaisen.gif" width="150" height="150" style="border-radius: 10px;" />
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ0czg1ZXZmYXFlbm8xa3Rxa2lxZ3lnd3Z0Y2R2NnUxMDNjcXZuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4WFqcwtRt9aEckz7Z/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
         <br />
         <strong>🎌 Anime Marathons</strong>
         <br />
-        <em>Currently watching: Jujutsu Kaisen</em>
-        <br />
-        <sub>Gojo Satoru - "Nah, I'd win"</sub>
+        <em>Currently watching: Chained Soldier</em>
       </td>
       <td align="center">
-        <img src="https://media.tenor.com/6JdSsU3kE3YAAAAi/spider-man-spider-verse.gif" width="150" height="150" style="border-radius: 10px;" />
+ <img 
+   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNuZjhxMmh0b2h0bXAzZ3YyMHZzdjYyaG80YWs0bjYxNDk2cmhwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0aIY8ZCncOtgh35ftC/giphy.gif" width="150" height="150" style="border-radius: 10px;" />
+        <br />
         <br />
         <strong>🎮 Gaming Sessions</strong>
         <br />
         <em>Spider-Man 2, Valorant</em>
-        <br />
-        <sub>Miles Morales - "What's up, danger?"</sub>
       </td>
       <td align="center">
-        <img src="https://media.tenor.com/8vUwWf4TyyoAAAAi/guts-berserk.gif" width="150" height="150" style="border-radius: 10px;" />
+         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVsZnYwbGs0dXFvdTZtbmZ5eW5ieGo1cXNlcXJ6ZmwwOHB5MHdoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
         <br />
         <strong>📚 Manga Collector</strong>
         <br />
         <em>Berserk, Vagabond, One Piece</em>
-        <br />
-        <sub>Guts - "Struggle, endure, contend"</sub>
       </td>
     </tr>
   </table>
