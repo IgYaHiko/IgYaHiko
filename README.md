@@ -8,43 +8,172 @@
 
 ---
 
-## 👾 Hacktoberfest Stats:
+## 👾 Hacktoberfest Stats
 
 [![Holopin Badges](https://holopin.me/igyahiko)](https://holopin.io/@igyahiko)
 
 ---
 
-## 🛠🚀 Tech Stack:
+## ⚔️ The Arsenal — My Tech Stack
 
 <div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Neon-00FFFF?style=for-the-badge&logo=neon&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Inngest-7E22CE?style=for-the-badge&logoColor=white"/>
-    <img src="https://img.shields.io/badge/E2B_Sandbox-9146FF?style=for-the-badge&logoColor=white"/>
-  </p>
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <div align="center">
+          <img src="./.assets/madara.gif" width="100%" style="border-radius: 10px;" />
+          <br />
+          <em>"Wake up to reality! Nothing ever goes as planned in this cursed world."</em>
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <div align="center">
+          <h3>🔥 Frontend Sorcery</h3>
+          <p>
+            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+            <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+            <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+            <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <div align="center">
+          <h3>⚡ Backend Ninjutsu</h3>
+          <p>
+            <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+            <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Neon-00FFFF?style=for-the-badge&logo=neon&logoColor=black"/>
+            <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+          </p>
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <div align="center">
+          <img src="./.assets/peter.gif" width="100%" style="border-radius: 10px;" />
+          <br />
+          <em>"With great power comes great responsibility... and great code."</em>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <div align="center">
+          <img src="./.assets/miles.gif" width="100%" style="border-radius: 10px;" />
+          <br />
+          <em>"Anyone can wear the mask. Anyone can write the code."</em>
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <div align="center">
+          <h3>🛡️ DevOps & Cloud Jutsu</h3>
+          <p>
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+            <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Inngest-7E22CE?style=for-the-badge&logoColor=white"/>
+            <img src="https://img.shields.io/badge/E2B_Sandbox-9146FF?style=for-the-badge&logoColor=white"/>
+            <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <div align="center">
+          <h3>🎨 Creative Arsenal</h3>
+          <p>
+            <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+          </p>
+        </div>
+      </td>
+      <td valign="top" width="50%">
+        <div align="center">
+          <img src="./.assets/spiderman.gif" width="100%" style="border-radius: 10px;" />
+          <br />
+          <em>"Does whatever a spider can... and so can your code!"</em>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Current Missions
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="80" />
+        <br />
+        <strong>⚙️ Building Next.js tools</strong>
+        <br />
+        <em>with Inngest + E2B Sandbox</em>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="80" />
+        <br />
+        <strong>🧪 Breaking stuff</strong>
+        <br />
+        <em>just to fix it (intentionally, of course)</em>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="80" />
+        <br />
+        <strong>📱 Mobile Dev</strong>
+        <br />
+        <em>React Native adventures</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## ⚡ GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=IgYaHiko&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgYaHiko&layout=compact&theme=radical" alt="Top Languages" width="45%" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IgYaHiko&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgYaHiko&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="Top Languages" width="45%" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgYaHiko&theme=radical&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" width="94%" />
+</div>
 
 ---
 
@@ -52,46 +181,26 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Circuit-Overtime/Circuit-Overtime/output/snake.svg" alt="Snake animation" />
+  <br />
+  <em>Even the snake knows: keep moving, keep contributing!</em>
 </div>
 
 ---
 
-## 📫 Reach Out
+## 🎵 Now Playing on Spotify
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&bar_color=38B2AC&bar_color_cover=true)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+
 </div>
 
----
+### 🎧 Current Coding Vibes
 
-## 🖥 Currently Working On
-
-- ⚙️ **Building Next.js tools with Inngest + E2B Sandbox**
-- 🧪 **Breaking stuff just to fix it (intentionally, of course)**
-
----
-
-> ⚡ Pro Tip: `console.log("Because debugging is my cardio.")`  
-> 🌈 If you're still reading this — you’re cool. Let’s connect!
-
----
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />  
-  ⚡️Keep coding. Keep breaking things. Keep hustle🚀
-
-
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohan24may/rohan24may/main/goku-power-sayan.gif" width="300" />
-</p>
+```javascript
+const devPlaylist = [
+  "🎧 Lo-fi Hip Hop - 'Debug Mode.exe'",
+  "🎧 Anime Openings - 'Stack Overflow'd'",
+  "🎧 Synthwave - 'Git Commit Dreams'",
+  "🎧 Epic Orchestral - 'Production Ready'"
+];
