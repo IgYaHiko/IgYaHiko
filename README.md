@@ -199,8 +199,7 @@
 
 *Updated frequently while coding* ⚡
 
-[![Listen on Spotify](https://img.shields.io/badge/Follow_my_Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31rnwysop3skvq2sug3vslm5hy34)
-
+[![Last.fm](https://lastfm-recently-played.vercel.app/api?user=YOUR_LASTFM_USERNAME&count=1&width=600&bg_color=0D1117&bar_color=38B2AC)](https://www.last.fm/user/YOUR_LASTFM_USERNAME)
 </div>
 
 ### 🎧 Current Coding Vibes
