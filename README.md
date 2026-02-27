@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src="./.assets/yahiko2 (1).svg" alt="Katana slaying code" width="500" height="500" />
+  <img src="./.assets/yahiko3.png" alt="Katana slaying code" width="700" height="700" />
 </div>
 
 <p align="center">
