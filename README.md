@@ -236,18 +236,18 @@
         <em>Currently watching: Black Clover</em>
       </td>
       <td align="center">
- <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxY2ZmcWdwYW1rYmNwd2ZjZDl3Y2pzejA0dG15MzM5eW4wbm9zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNzYjUxZzVobWowOG9saGg3dXBranV4dGgyb204YmVtcjNuamExbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JXNIOuH2y6u1Z6/giphy.gif)" width="250" height="250" style="border-radius: 10px;" />
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNzYjUxZzVobWowOG9saGg3dXBranV4dGgyb204YmVtcjNuamExbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JXNIOuH2y6u1Z6/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
         <br />
         <strong>🎮 My Magic</strong>
         <br />
         <em>Never Giving up is my only magic</em>
       </td>
       <td align="center">
-         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVsZnYwbGs0dXFvdTZtbmZ5eW5ieGo1cXNlcXJ6ZmwwOHB5MHdoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
+         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU5a2drcnN2eWlkcDgyMmZyN3l4OGlteWtpaWV6bXdtYzljOHliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E09b39IocWFyJRHG0B/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
         <br />
-        <strong>📚 Manga Collector</strong>
+        <strong>📚 My Grimoire</strong>
         <br />
-        <em>Berserk, Vagabond, One Piece</em>
+        <em>Five-Leaf Clover Grimoire</em>
       </td>
     </tr>
   </table>
