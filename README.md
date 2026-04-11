@@ -233,14 +233,14 @@
         <br />
         <strong>🎌 Anime Marathons</strong>
         <br />
-        <em>Currently watching: Chained Soldier</em>
+        <em>Currently watching: Black Clover</em>
       </td>
       <td align="center">
- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxY2ZmcWdwYW1rYmNwd2ZjZDl3Y2pzejA0dG15MzM5eW4wbm9zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
+ <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXNxY2ZmcWdwYW1rYmNwd2ZjZDl3Y2pzejA0dG15MzM5eW4wbm9zNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1qErVv5GVUac8uqBJU/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNzYjUxZzVobWowOG9saGg3dXBranV4dGgyb204YmVtcjNuamExbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JXNIOuH2y6u1Z6/giphy.gif)" width="250" height="250" style="border-radius: 10px;" />
         <br />
-        <strong>🎮 Gaming Sessions</strong>
+        <strong>🎮 My Magic</strong>
         <br />
-        <em>Spider-Man 2, Valorant</em>
+        <em>Never Giving up is my only magic</em>
       </td>
       <td align="center">
          <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWVsZnYwbGs0dXFvdTZtbmZ5eW5ieGo1cXNlcXJ6ZmwwOHB5MHdoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4w0AMZJa2EtG/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
