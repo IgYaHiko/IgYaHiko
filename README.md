@@ -229,7 +229,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ0czg1ZXZmYXFlbm8xa3Rxa2lxZ3lnd3Z0Y2R2NnUxMDNjcXZuNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/n4WFqcwtRt9aEckz7Z/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRlZXg2NTRidW01azl1N2I3a2JzcXpqNzh2bjI5eGZ5eWk3Y2c0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
         <br />
         <strong>🎌 Anime Marathons</strong>
         <br />
