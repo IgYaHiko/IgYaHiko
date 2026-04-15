@@ -229,21 +229,21 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRlZXg2NTRidW01azl1N2I3a2JzcXpqNzh2bjI5eGZ5eWk3Y2c0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRlZXg2NTRidW01azl1N2I3a2JzcXpqNzh2bjI5eGZ5eWk3Y2c0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif" width="250" height="150" style="border-radius: 10px;" />
         <br />
         <strong>🎌 Anime Marathons</strong>
         <br />
         <em>Currently watching: Black Clover</em>
       </td>
       <td align="center">
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNzYjUxZzVobWowOG9saGg3dXBranV4dGgyb204YmVtcjNuamExbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JXNIOuH2y6u1Z6/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNzYjUxZzVobWowOG9saGg3dXBranV4dGgyb204YmVtcjNuamExbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l49JXNIOuH2y6u1Z6/giphy.gif" width="250" height="150" style="border-radius: 10px;" />
         <br />
         <strong>🎮 My Magic</strong>
         <br />
         <em>Never Giving up is my only magic</em>
       </td>
       <td align="center">
-         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU5a2drcnN2eWlkcDgyMmZyN3l4OGlteWtpaWV6bXdtYzljOHliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E09b39IocWFyJRHG0B/giphy.gif" width="250" height="250" style="border-radius: 10px;" />
+         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnU5a2drcnN2eWlkcDgyMmZyN3l4OGlteWtpaWV6bXdtYzljOHliYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E09b39IocWFyJRHG0B/giphy.gif" width="250" height="150" style="border-radius: 10px;" />
         <br />
         <strong>📚 My Grimoire</strong>
         <br />
