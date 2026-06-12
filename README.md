@@ -14,7 +14,7 @@
 
 ---
 
-## ⚔️ The Arsenal  My Tech Stack:
+## ⚔️ The Arsenal  My Tech Stack
 
 <div align="center">
   <table>
