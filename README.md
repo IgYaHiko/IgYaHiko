@@ -14,6 +14,29 @@
 
 ---
 
+---
+<div align="center">
+
+# <img width="50" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png"> LeetCode <img width="50" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png">
+
+</div>
+
+<p align="center">
+
+<a href="https://leetcode.com/u/subhrokolay2/">
+<img src="https://leetcard.jacoblin.cool/priyadeepmullick?ext=activity"/>
+</a>
+
+</p>
+
+
+
+
+
+<div align="center">
+
+---
+
 ## ⚔️ The Arsenal  My Tech Stack
 
 <div align="center">
