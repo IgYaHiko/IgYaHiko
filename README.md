@@ -24,7 +24,7 @@
 <p align="center">
 
 <a href="https://leetcode.com/u/subhrokolay2/">
-<img src="https://leetcard.jacoblin.cool/priyadeepmullick?ext=activity"/>
+<img src="https://leetcard.jacoblin.cool/subhrokolay2?ext=activity"/>
 </a>
 
 </p>
